@@ -1,0 +1,19 @@
+﻿  3-2-1.cpp
+  3-3-1.cpp
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\3-3-1.cpp(22,42): warning C4101: 'output_file3': 未參考的區域變數
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\3-3-1.cpp(22,26): warning C4101: 'output_file2': 未參考的區域變數
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\3-3-1.cpp(22,11): warning C4101: 'output_file': 未參考的區域變數
+  3-3-2.cpp
+  3-3-3.cpp
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\3-3-3.cpp(70,18): warning C4154: 不能在陣列運算式上使用 delete; 所以將陣列轉換成指標
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\3-3-3.cpp(71,18): warning C4154: 不能在陣列運算式上使用 delete; 所以將陣列轉換成指標
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\3-3-3.cpp(22,42): warning C4101: 'output_file3': 未參考的區域變數
+  Source.cpp
+C:\Users\User\source\repos\ADIP_HW3\ADIP_HW3\Source.cpp(19,9): warning C4101: 'HW3': 未參考的區域變數
+  Source1.cpp
+  3-1.cpp
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  3-2-2.cpp
+  正在產生程式碼...
+LINK : fatal error LNK1104: 無法開啟檔案 'C:\opencv\build\x86\vc11\lib\opencv_core246d.lib'
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" 以返回碼 1104 結束。

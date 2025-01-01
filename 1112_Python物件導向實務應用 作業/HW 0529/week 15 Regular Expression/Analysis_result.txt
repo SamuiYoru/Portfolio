@@ -1,0 +1,16 @@
+[VIP]
+Sue buys Computer:161620 ,Book:170145 ,Paper:162328 ,Mouse:160934 ,Notebook:140781 
+John buys Computer:133663 ,Paper:164122 ,Notebook:154141 ,Book:135013 ,Mouse:147226 
+Peter buys Computer:151788 ,Notebook:135583 ,Mouse:153552 ,Book:142909 ,Paper:157006 
+
+[Member]
+Alice buys Book:143450 ,Mouse:169685 ,Computer:154129 ,Notebook:161044 ,Paper:155758 
+Bob buys Notebook:159405 ,Book:166681 ,Paper:165561 ,Mouse:164076 ,Computer:159813 
+Hella buys Book:161668 ,Notebook:162628 ,Paper:146130 ,Computer:140530 ,Mouse:176175 
+Lee buys Computer:160033 ,Notebook:160549 ,Book:146360 ,Mouse:166737 ,Paper:161984 
+
+Total Computer sales: 1061576
+Total Book sales: 1066226
+Total Paper sales: 1112889
+Total Mouse sales: 1138385
+Total Notebook sales: 1074131

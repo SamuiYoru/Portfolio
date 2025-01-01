@@ -1,0 +1,4 @@
+{
+    "gif_path": "./hint file/godown.gif",
+    "hint_text": "'godown(steps)':\n    使玩家往下steps格\n\n    steps:無設定為預設'1'\n"
+}

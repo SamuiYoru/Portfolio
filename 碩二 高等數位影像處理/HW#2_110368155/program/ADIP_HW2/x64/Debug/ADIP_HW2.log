@@ -1,0 +1,5 @@
+﻿  2-1.cpp
+C:\Users\User\source\repos\ADIP_HW2\ADIP_HW2\2-1.cpp(24,47): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\source\repos\ADIP_HW2\ADIP_HW2\2-1.cpp(105,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\User\source\repos\ADIP_HW2\ADIP_HW2\2-1.cpp(150,26): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ADIP_HW2.vcxproj -> C:\Users\User\source\repos\ADIP_HW2\x64\Debug\ADIP_HW2.exe

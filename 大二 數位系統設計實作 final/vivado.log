@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jun  7 16:13:33 2019
+# Process ID: 12196
+# Current directory: C:/Users/yuchin/Desktop/final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17208 C:\Users\yuchin\Desktop\final\final.xpr
+# Log file: C:/Users/yuchin/Desktop/final/vivado.log
+# Journal file: C:/Users/yuchin/Desktop/final\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yuchin/Desktop/final/final.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yuchin/Desktop/OS/Desktop/a004.coe'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/yuchin/Desktop/OS/Desktop/fire.coe'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:09 . Memory (MB): peak = 771.164 ; gain = 165.691
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Fri Jun  7 16:14:01 2019] Launched synth_1...
+Run output will be captured here: C:/Users/yuchin/Desktop/final/final.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Fri Jun  7 16:14:59 2019] Launched synth_1...
+Run output will be captured here: C:/Users/yuchin/Desktop/final/final.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Fri Jun  7 16:49:46 2019] Launched synth_1...
+Run output will be captured here: C:/Users/yuchin/Desktop/final/final.runs/synth_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jun  8 00:29:58 2019...

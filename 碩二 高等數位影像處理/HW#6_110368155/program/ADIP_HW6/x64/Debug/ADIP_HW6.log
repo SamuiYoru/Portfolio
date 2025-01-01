@@ -1,0 +1,9 @@
+﻿  6_1.cpp
+  6_2.cpp
+  6_3.cpp
+C:\Users\User\source\repos\ADIP_HW6\ADIP_HW6\6_3.cpp(29,19): warning C4101: 'img_out2': 未參考的區域變數
+  6_4.cpp
+  Source.cpp
+C:\Users\User\source\repos\ADIP_HW6\ADIP_HW6\Source.cpp(20,9): warning C4101: 'sel': 未參考的區域變數
+  正在產生程式碼...
+  ADIP_HW6.vcxproj -> C:\Users\User\source\repos\ADIP_HW6\x64\Debug\ADIP_HW6.exe

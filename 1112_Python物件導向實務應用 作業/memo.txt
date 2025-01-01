@@ -1,0 +1,19 @@
+HW 0306 
+    1.Print double triangle
+    2.Print spacing triangle
+    3.Print diamond
+    4.Print grid
+    5.Guessing game
+HW 0313 List and file
+    0.add student
+    1.delete student
+    2.modify student
+    3.print all
+    4.save and close file
+HW 0320 
+
+HW 0327 Class
+
+HW 0410 Client and Server - Client
+    Change the program into client and server way
+    This week write server

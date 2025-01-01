@@ -1,0 +1,4 @@
+{
+    "gif_path": "./hint file/loop.gif",
+    "hint_text": "'loop times:':\n    使下方有縮排之程式重複執行times次\n\n    times:必須設定次數\n    縮排:可使用'四個空格'或'Tab'"
+}

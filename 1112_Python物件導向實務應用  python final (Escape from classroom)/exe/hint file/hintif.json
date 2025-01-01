@@ -1,0 +1,4 @@
+{
+    "gif_path": "./hint file/if.gif",
+    "hint_text": "'if ways:'、'elif ways:'、'else:':\n    判斷ways方向是否有路，並執行下方有縮排之程式\n\n    ways:必須設定為以下其中一項\n      'left_way、up_way、right_way、down_way'"
+}

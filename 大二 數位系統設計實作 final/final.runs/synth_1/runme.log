@@ -1,0 +1,13 @@
+
+*** Running vivado
+    with args -log final.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source final.tcl
+
+
+****** Vivado v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source final.tcl -notrace
+ERROR: [Vivado 12-172] File or Directory 'C:/Users/yuchin/Desktop/OS/Desktop/a004.coe' does not exist
+INFO: [Common 17-206] Exiting Vivado at Fri Jun  7 16:49:53 2019...
